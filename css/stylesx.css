@@ -831,6 +831,8 @@ background: linear-gradient(185deg, rgba(2,0,36,1) 0%, rgba(76,17,143,1) 100%, r
 .basic-4 {
 	padding-top: 4rem;
 	padding-bottom: 3rem;
+	background: rgb(2,0,36);
+	background: linear-gradient(185deg, rgba(2,0,36,1) 0%, rgba(76,17,143,1) 100%, rgba(58,3,103,1) 100%);	background-size: cover;
 }
 
 .basic-4 h2 {
